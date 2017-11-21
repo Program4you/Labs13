@@ -1,0 +1,9 @@
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab2\Lab2\obj\Debug\Lab2.pdb

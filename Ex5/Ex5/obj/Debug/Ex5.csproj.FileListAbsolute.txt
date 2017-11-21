@@ -1,0 +1,9 @@
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\obj\Debug\Ex5.Form1.resources
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\obj\Debug\Ex5.Properties.Resources.resources
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\obj\Debug\Ex5.csproj.GenerateResource.Cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Ex5\Ex5\obj\Debug\Ex5.pdb

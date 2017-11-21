@@ -1,0 +1,10 @@
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.Cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Labs13\Lab9\Lab9\obj\Debug\Lab9.pdb
